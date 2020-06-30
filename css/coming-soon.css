@@ -152,7 +152,7 @@ video {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: #000000;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -189,13 +189,13 @@ video {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #000000;
   }
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
