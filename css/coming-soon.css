@@ -40,7 +40,7 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../img/small.png") #002E66 no-repeat center center scroll;
+    background: url("../img/small.jpg") #002E66 no-repeat center center scroll;
     background-size: cover;
   }
   body video {
